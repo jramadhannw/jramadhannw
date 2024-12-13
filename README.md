@@ -50,4 +50,10 @@
     <img src="https://komarev.com/ghpvc/?username=jramadhannw">
    </a>
    <a href="https://github.com/jramadhannw?tab=followers"><img src="https://img.shields.io/github/followers/jramadhannw?  label=Followers&style=social" alt="GitHub Badge"></a>
+   </a>
+   <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/jramadhannw/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  </a>
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/jramadhannw/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
 </p>
