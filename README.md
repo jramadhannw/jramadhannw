@@ -50,6 +50,7 @@
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40/>
 </p>
 
+<h3 align="left">:</h3>
 <p align="left">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jramadhannw">
