@@ -14,6 +14,16 @@
     </a>
 </p>
 
+<h3 align="left">Projects:</h3>
+<ul>
+    <li>
+        <a href="https://github.com/Bangkit-Capstone-EcoQuest" target="_blank">EcoQuest</a> - A collaborative project from the Bangkit Capstone program, exploring innovative solutions to environmental challenges.
+    </li>
+    <li>
+        <a href="https://github.com/jramadhannw/Capstone_Analisis-Berlayar_Main" target="_blank">Analisis Berlayar</a> - A data analysis-focused capstone project showcasing advanced insights and techniques.
+    </li>
+</ul>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
