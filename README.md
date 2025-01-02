@@ -12,6 +12,9 @@
     <a href="https://www.linkedin.com/in/jelangramadhannw/" target="_blank">
         <img align="center" src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png" alt="LinkedIn" height="35" width="35" />
     </a>
+     <a href="https://www.instagram.com/jramadhannw/profilecard/?igsh=MTNjY3VoNWlkYTVpbA==" target="_blank">
+        <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="LinkedIn" height="35" width="35" />
+    </a>
 </p>
 
 <h3 align="left">Projects:</h3>
